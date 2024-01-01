@@ -1,0 +1,12 @@
+---
+:id: 207461836
+:submitters:
+- :name: JASON SONG
+  :email: jason.song380@gmail.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-30 01:01:32.101634000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-29 18:01:32.101634000 Z
+:status: processed
+:score: 100.0
